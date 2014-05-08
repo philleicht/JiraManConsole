@@ -1,4 +1,4 @@
-JiraManConsole
+JiraManConsole (2013)
 ==============
 
 C# Console JIRA-Client as a PoC for automatic interaction with JIRA issue tracking application.
